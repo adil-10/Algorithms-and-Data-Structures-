@@ -1,0 +1,7 @@
+C:\Users\19005877\OneDrive - MMU\Documents\C# code\Assessed Work\task_4\task_4\bin\Debug\task_4.exe.config
+C:\Users\19005877\OneDrive - MMU\Documents\C# code\Assessed Work\task_4\task_4\bin\Debug\task_4.exe
+C:\Users\19005877\OneDrive - MMU\Documents\C# code\Assessed Work\task_4\task_4\bin\Debug\task_4.pdb
+C:\Users\19005877\OneDrive - MMU\Documents\C# code\Assessed Work\task_4\task_4\obj\Debug\task_4.csprojAssemblyReference.cache
+C:\Users\19005877\OneDrive - MMU\Documents\C# code\Assessed Work\task_4\task_4\obj\Debug\task_4.csproj.CoreCompileInputs.cache
+C:\Users\19005877\OneDrive - MMU\Documents\C# code\Assessed Work\task_4\task_4\obj\Debug\task_4.exe
+C:\Users\19005877\OneDrive - MMU\Documents\C# code\Assessed Work\task_4\task_4\obj\Debug\task_4.pdb
